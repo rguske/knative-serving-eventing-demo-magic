@@ -7,7 +7,7 @@ Follow](https://img.shields.io/twitter/follow/vmw_rguske?style=social)](https://
 
 Hi curious visitor :wave:
 
-By cloning this repository, you will have two scripts by hand, which allows you to have Knative's building blocks **Serving** and **Eventing**, plus demos for each, (partial) automatically installed in a demoable step-by-step fashion. With "*demoable step-by-step fashion*" I mean, that when executing one of the scripts, it'll automatically write the commands to your terminal and stops at a certain point, to get executed through your keystroke (enter-key). I'm using the popular [Demo Magic](https://github.com/paxtonhare/demo-magic) script/tool to do it.
+Knative is a popular platform to run Serverless workload on Kubernetes as well as to build Event-Driven architectures. This repository introduces two demo scripts I've created to demo Knative's power in the mentioned disciplines. By cloning this repository, you will have two scripts by hand, which allows you to have Knative's building blocks **Serving** and **Eventing**, plus demos for each, (partial) automatically installed in a demoable step-by-step fashion. With "*demoable step-by-step fashion*" I mean, that when executing one of the scripts, it'll automatically write the commands to your terminal and stops at a certain point, to get executed through your keystroke (enter-key). I'm using the popular [Demo Magic](https://github.com/paxtonhare/demo-magic) script/tool to do it.
 
 ## :book: Table of Content
 
